@@ -161,6 +161,9 @@ nav a.active {
 .conleft {
     width: 100%;
     padding: 20px;
+    border: 2px solid black;
+    margin-left: 20px;
+    margin-right: 20px;
 }
 
 .conleft span {
@@ -170,13 +173,13 @@ nav a.active {
 
 .conleft input {
     width: 100%;
-    padding: 10px;
+    padding: 5px;
     margin-bottom: 15px;
 }
 
 .conleft button {
     width: 100%;
-    padding: 10px;
+    padding: 5px;
     background-color: black;
     color: whitesmoke;
     border-radius: 6px;
